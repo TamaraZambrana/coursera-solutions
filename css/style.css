@@ -57,4 +57,7 @@ font-size:175%;
     width: 47%;
 	float: left;
   }
+  .col-md-12{
+    width: 100%;
+  }
 }
